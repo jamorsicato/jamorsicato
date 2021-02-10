@@ -2,7 +2,7 @@
 
 #### About Me
 
-I currently work as a gig worker part time while running a small media colective I Co-Founded, [The Coyote Collective](https://www.thecoyotecollective.com). Every moment of free time I get I am working to refine my data science skills and learn more about how I can better understand the world through the massive amount of available data. I want to combine the modern skills of Machine Learning/AI, programming, scraping, munging, and visualization with the ancient art of story telling. My dream is to help bridge the gap between science and the everyday person.
+After graduating Colorado School of Mines I started work as a freelance worker part time while running a small media colective I Co-Founded, [The Coyote Collective](https://www.thecoyotecollective.com). Every moment of free time I get I am working to refine my data science skills and learn more about how I can better understand the world through the massive amount of available data on the internet. I want to combine the modern skills of Machine Learning/AI, programming, scraping, munging, and visualization with the ancient art of story telling. My dream is to help bridge the gap between science and the everyday person.
 
 ### Current Skills 
 
@@ -17,6 +17,7 @@ I currently work as a gig worker part time while running a small media colective
 
 - 🌏 Location: Denver, Colorado
 - ✉️ Email: Jamorsicato@gmail.com
+
 
 ![Me Climbing in Colorado](jonny_flatirons.jpg)
 
