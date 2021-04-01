@@ -11,6 +11,13 @@ After graduating Colorado School of Mines I started work as a freelance gig work
 - __Data Visualization:__ Plotly, Matplotlib, ggplot, Seaborn
 - __Other:__ Jupyter Notebooks, Django, Creative Writing, Storytelling
 
+### Currently Working on
+
+- 🔭 I’m currently working on building a CNN that takes in financial data as an image and makes a "Buy,Sell, Hold" prediction
+- 🌱 I’m currently taking the Andrew Ng Machine Learning Course through [Coursera](https://www.coursera.org/learn/machine-learning/home)
+- 👯 I’m looking to collaborate on any ML vision or financial trading project
+- 🤔 I’m looking for help with understanding how to design the layers in a CNN
+
 ### Contact Me
 
 - 🌏 Location: Denver, Colorado
@@ -35,10 +42,6 @@ And they don't know how to rest.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
