@@ -7,8 +7,8 @@ After graduating Colorado School of Mines I started work as a freelance gig work
 ### Current Skills 
 
 - __Languages:__ Python, R, C++, Java
-- __Machine Learning:__ Keras, spark, tensorflow, sklearn
-- __Data Visualization:__ Plotly, Matplotlib, ggplot, seaborn
+- __Machine Learning:__ Keras, Spark, Tensorflow, Sklearn
+- __Data Visualization:__ Plotly, Matplotlib, ggplot, Seaborn
 - __Other:__ Jupyter Notebooks, Django, Creative Writing, Storytelling
 
 ### Contact Me
